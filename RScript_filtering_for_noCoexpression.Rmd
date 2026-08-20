@@ -16,7 +16,7 @@ library(dplyr)
 library(readr)
 library(tidyr)
 
- setwd("C:/Users/darja/Documents/sea_urch_coexpr/singlecell_Brandenburg/")
+ #load your object from https://www-ncbi-nlm-nih-gov.uaccess.univie.ac.at/geo/query/acc.cgi
 
 #choosing the stage. I chose 20 hpf
 data_subset <- subset(GSE322501_merged_scRNA, subset = Stage == "Hpf20")
