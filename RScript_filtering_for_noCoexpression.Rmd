@@ -8,7 +8,6 @@ Filtering of Brandenburg et. al dataset
 ## <https://www.biorxiv.org/content/10.1101/2025.08.12.669999v1.full>
 
 here sp-Wnt5 is "LOC578814"\
-also interesting to check: *Zc4h2* (LOC575413)\
 
 ```{r}
 
